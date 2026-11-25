@@ -4,8 +4,10 @@ u-zkhiel-one-line-laugh-off-714618ae.
 
 Writes exactly one funny line to /output/entry.txt.
 The line is a single joke that lands on a cold read:
-a literal twist on a familiar therapy phrase, with no
-setup notes and no explanation.
+it takes the familiar therapy phrase "embrace your mistakes"
+absurdly literally — the punchline is a hug for the ex, not
+self-growth. The twist arrives in the last three words, with
+no setup notes and no explanation.
 """
 
 import os
